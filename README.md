@@ -1,7 +1,17 @@
-### Hi there 👋
+
+## :construction_worker: About me.
+
+Hello, I am Aleksei Sopikov. I have worked and am working now as a software developer.
+I am interested in application development both mobile and desktop and in the process of obtaining new skills completely open to any new opportunities.
+I am available for contract work.
+
+## :school: Education
+
+[Tula State University](https://tulsu.ru/en/about "TSU's homepage") Engineer's degree
+Sep 1999 - Dec 2005
 
 <!--
-**alexsopikov/alexsopikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aleksei-so/aleksei-so** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
